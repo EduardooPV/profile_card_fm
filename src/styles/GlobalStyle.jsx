@@ -59,14 +59,14 @@ table {
 
 /* ADICONANDO FONT FAMILY NO PROJETO */
 @font-face {
-  font-family: '';
-  src: url('/fonts/');
+  font-family: 'KumbhSansRegular';
+  src: url('/fonts/KumbhSans-Regular.ttf');
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '';
-  src: url('/fonts/');
+  font-family: 'KumbhSansBold';
+  src: url('/fonts/KumbhSans-Bold.ttf');
   font-style: normal;
   font-weight: 700;
 }
